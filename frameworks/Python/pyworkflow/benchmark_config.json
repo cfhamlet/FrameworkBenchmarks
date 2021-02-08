@@ -1,0 +1,26 @@
+{
+  "framework": "pyworkflow",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Platform",
+        "database": "None",
+        "framework": "None",
+        "language": "Python",
+        "flavor": "Python3",
+        "orm": "None",
+        "platform": "None",
+        "webserver": "None",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "PyWorkflow",
+        "notes": "",
+        "versus": "None"
+      }
+    }
+  ]
+}
